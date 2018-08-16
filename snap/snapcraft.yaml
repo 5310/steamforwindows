@@ -26,6 +26,7 @@ apps:
       - hardware-observe
       - home
       - joystick
+      - mnt
       - network
       - network-bind
       - opengl
